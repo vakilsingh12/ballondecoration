@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { Inter } from "@next/font/google";
 import Header from "./component/Header";
-import About from "./component/about";
+import About from "./component/About";
 import Occassion from './component/Occassions';
 import Service from "./component/Service";
 import Gallery from "./component/Gallery";
