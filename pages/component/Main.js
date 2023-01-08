@@ -21,11 +21,11 @@ const Main = () => {
 const Slide = () => {
   return (
     <div className="flex shadow-lg">
-      <img src="https://cdn.togetherv.com/birthday-special-balloon-decoration-3_1663137509.webp" class="max-w-full h-auto" alt="" />
-      <img src="https://deowgxgt4vwfe.cloudfront.net/uploads/1566995311_large.jpg" class="max-w-full h-auto" alt="" />
-      <img src="https://mdbootstrap.com/img/new/slides/041.jpg" class="max-w-full h-auto" alt="" />
-      <img src="https://mdbootstrap.com/img/new/slides/041.jpg" class="max-w-full h-auto" alt="" />
-      <img src="https://mdbootstrap.com/img/new/slides/041.jpg" class="max-w-full h-auto" alt="" />
+      <img src="https://cdn.togetherv.com/birthday-special-balloon-decoration-3_1663137509.webp" className="max-w-full h-auto" alt="" />
+      <img src="https://deowgxgt4vwfe.cloudfront.net/uploads/1566995311_large.jpg" className="max-w-full h-auto" alt="" />
+      <img src="https://mdbootstrap.com/img/new/slides/041.jpg" className="max-w-full h-auto" alt="" />
+      <img src="https://mdbootstrap.com/img/new/slides/041.jpg" className="max-w-full h-auto" alt="" />
+      <img src="https://mdbootstrap.com/img/new/slides/041.jpg" className="max-w-full h-auto" alt="" />
     </div>
   )
 }
