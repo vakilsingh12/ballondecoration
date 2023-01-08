@@ -5,7 +5,7 @@ const About = () => {
       <div className="container px-5 py-12 mx-auto">
         <h2 className="text-center font-semibold text-3xl">
           <span className="pb-4 text-gray-900 border-b-4 border-gray-800">
-            About A2Z Ballon
+            About A2Z Baloon
           </span>
         </h2>
         <div className="flex sm:flex-row  items-start mx-auto md:py-4">
