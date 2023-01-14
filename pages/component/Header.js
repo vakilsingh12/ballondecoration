@@ -1,41 +1,93 @@
 import React from "react";
 import Image from "next/image";
-import { BiMobile } from 'react-icons/bi';
-import {AiOutlineMail} from 'react-icons/ai';
+import { BiMobile } from "react-icons/bi";
+import { AiOutlineMail } from "react-icons/ai";
 import Link from "next/link";
 const Header = () => {
   return (
     <div className="container mx-auto sticky top-0 z-10 bg-white">
-     <div className="md:ml-auto md:flex md:justify-end  md:px-6 bg-gray-600 shadow-md md:py-4 py-2">
-     <div className="flex items-center px-6  text-white">Contact Us : <BiMobile/>+91:9877751658</div>
-     <div className="flex items-center px-6 text-white">Email : <AiOutlineMail/> baloondecoraton@gmail.com </div>
-     </div>
-      <header className="text-gray-600 body-font md:px-4 shadow-lg">
-        <div className="container mx-auto flex flex-wrap md:p-5 p-2 flex-col md:flex-row items-center">
-          <Link href={'/'} className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              stroke="currentColor"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth="2"
-              className="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full"
-              viewBox="0 0 24 24"
-            >
-              <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
-            </svg>
-            <span className="ml-3 text-xl">A2Z Baloon Decoration</span>
-          </Link>
-          <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base ">
-            <Link href="/" className="md:mr-12 mr-2 hover:text-gray-900 md:text-lg ">Home</Link>
-            <Link href="/#occasion" className="md:mr-12 mr-2 hover:text-gray-900 md:text-lg ">Occasions</Link>
-            <Link href="/#services" className="md:mr-12 mr-2 hover:text-gray-900 md:text-lg ">Services</Link>
-            <Link href="/#gallery" className="md:mr-12 mr-2 hover:text-gray-900 md:text-lg ">Gallery</Link>
-            <Link href="/#contact" className="md:mr-12 mr-2 hover:text-gray-900 md:text-lg ">Contact Us</Link>
-          </nav>
+      <div className="md:ml-auto md:flex md:justify-end  md:px-6 bg-gray-600 shadow-md md:py-4 py-2">
+        <div className="flex items-center px-6  text-white">
+          Contact Us : <BiMobile />
+          +91:9501586704
         </div>
-      </header>
+        <div className="flex items-center px-6 text-white">
+          Email : <AiOutlineMail /> balloondecoraton@gmail.com
+        </div>
+      </div>
+      <nav className="bg-white border-gray-200 px-2 sm:px-4 py-1 shadow-lg rounded dark:bg-gray-900">
+        <div className="container flex flex-wrap items-center md:justify-start justify-between mx-auto md:ml-2">
+          <Link href="/" className="flex items-center">
+          <Image src={'/logo.png'} width={70} height={70} alt={"logo"} className="ml-2"/>
+          </Link>
+          <button
+            data-collapse-toggle="navbar-default"
+            type="button"
+            className="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+            aria-controls="navbar-default"
+            aria-expanded="false"
+          >
+            <span className="sr-only">Open main menu</span>
+            <svg
+              className="w-6 h-6"
+              aria-hidden="true"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z"
+                clip-rule="evenodd"
+              ></path>
+            </svg>
+          </button>
+          <div className="hidden w-full md:block md:w-auto" id="navbar-default">
+            <ul className="flex flex-col p-1 pl-4 mt-2 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-14 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700 md:pl-10">
+              <li>
+              <Link
+                  href="/"
+                  className="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
+                >
+                  Home
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/#occasion"
+                  className="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
+                >
+                  Occasions
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/#services"
+                  className="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
+                >
+                  Services
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/#gallery"
+                  className="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
+                >
+                  Gallery
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/#contact"
+                  className="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
+                >
+                  Contact
+                </Link>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
     </div>
   );
 };

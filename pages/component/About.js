@@ -5,12 +5,12 @@ const About = () => {
       <div className="container px-5 py-12 mx-auto">
         <h2 className="text-center font-semibold text-3xl">
           <span className="pb-4 text-gray-900 border-b-4 border-gray-800">
-            About A2Z Baloon
+            About A2Z Balloon
           </span>
         </h2>
         <div className="flex sm:flex-row  items-start mx-auto md:py-4">
           <p className="flex-grow text-gray-900 mt-10 text-justify md:mx-12">
-            About A1 Baloon A1 Balloon is the leading balloon decoration company
+            About A1 Balloon A1 Balloon is the leading balloon decoration company
             in Gurgaon. We provide a wide range of decoration services to make
             any event full of joy, happiness and memorable. We have different
             types of packages for every event. The decoration is done by a team

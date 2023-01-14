@@ -23,7 +23,7 @@ const Footer = () => {
             >
               <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
             </svg>
-            <span className="ml-3 text-xl">A2Z Baloon Decoration</span>
+            <span className="ml-3 text-xl">A2Z Balloon Decoration</span>
           </Link>
           <p className="mt-2 text-sm text-gray-500 px-2">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut debitis
@@ -144,7 +144,7 @@ const Footer = () => {
       <div className="bg-gray-100">
         <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
           <p className="text-gray-500 text-sm text-center sm:text-left">
-            © {year} A2Z Baloon Decoration —
+            © {year} A2Z Balloon Decoration —
             <a
               href="https://twitter.com/knyttneve"
               rel="noopener noreferrer"
