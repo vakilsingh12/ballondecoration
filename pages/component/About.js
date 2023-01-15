@@ -1,7 +1,7 @@
 import React from "react";
 const About = () => {
   return (
-    <section className="text-gray-600 body-font bg-gray-100">
+    <section className="text-gray-600 body-font bg-gray-100" id="about">
       <div className="container px-5 py-12 mx-auto">
         <h2 className="text-center font-semibold text-3xl">
           <span className="pb-4 text-gray-900 border-b-4 border-gray-800">

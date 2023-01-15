@@ -15,169 +15,169 @@ const Occassions = () => {
           <div className="flex flex-wrap -m-4 md:mx-10 mx-20 sm:items-center sm:justify-center">
             <div className="lg:w-1/6 md:w-1/2 p-2 w-full">
                 <img
-                  alt="ecommerce"
+                  alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="https://i.pinimg.com/736x/6f/38/5b/6f385b6fe30a47c2ad1fd792c42707bd.jpg"
+                  src="/kidsbirthday.jpg"
                   width={200}
                   height={200}
                 />
               <div className="mt-4">
-                <h3 className="text-gray-500 mb-1 ml-12">
-                  CATEGORY
+                <h3 className="text-gray-500 mb-1 ml-8">
+                  Kid's Birthday Party
                 </h3>
               </div>
             </div>
             <div className="lg:w-1/6 md:w-1/2 p-2 w-full">
                 <img
-                  alt="ecommerce"
-                  className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="https://rukminim1.flixcart.com/image/850/850/l5bd5zk0/decoration/e/t/i/400-medium-16-latest-dream-party-unicorn-theme-birthday-original-imaggysamc2chzaw.jpeg?q=20"
-                  width={200}
-                  height={200}
-                />
-              <div className="mt-4">
-                <h3 className="text-gray-500 mb-1 ml-12">
-                  CATEGORY
-                </h3>
-              </div>
-            </div>
-            <div className="lg:w-1/6 md:w-1/2 p-2 w-full">
-                <img
-                  alt="ecommerce"
-                  className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="https://rukminim1.flixcart.com/image/400/400/kv2pk7k0/birthday-combo/v/p/4/happy-birthday-banner-decoration-kit-34pcs-set-for-boys-husband-original-imag824ps5mkvuhh.jpeg?q=90"
-                  width={200}
-                  height={200}
-                />
-              <div className="mt-4">
-                <h3 className="text-gray-500 mb-1 ml-12">
-                  CATEGORY
-                </h3>
-              </div>
-            </div>
-            <div className="lg:w-1/6 md:w-1/2 p-2 w-full">
-                <img
-                  alt="ecommerce"
+                  alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
                   src="https://cdn.shopify.com/s/files/1/0266/9497/5657/products/happy-anniversary-decoration-kit-with-golden-foil-balloon-pack-of-84-pcs-330839_533x.jpg?v=1646290662"
                   width={200}
                   height={200}
                 />
               <div className="mt-4">
-                <h3 className="text-gray-500 mb-1 ml-12">
-                  CATEGORY
+                <h3 className="text-gray-500 mb-1 ml-8">
+                  Anniversary party
                 </h3>
               </div>
             </div>
             <div className="lg:w-1/6 md:w-1/2 p-2 w-full">
                 <img
-                  alt="ecommerce"
+                  alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtU3IguXzAKUKLX6cwtye0rtW5hIy7jcPvqLyBdm7n-oxkyR8wCu1V5UDN4Q-hmttj20&usqp=CAU"
+                  src="/occ1.jpg"
                   width={200}
                   height={200}
                 />
               <div className="mt-4">
                 <h3 className="text-gray-500 mb-1 ml-12">
-                  CATEGORY
+                  Office Party
                 </h3>
               </div>
             </div>
             <div className="lg:w-1/6 md:w-1/2 p-2 w-full">
                 <img
-                  alt="ecommerce"
+                  alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="https://www.uniqueballoondecorator.in/media/image/thumb/96795061st_Birthday_Ring_Circle_Decoration-1.jpg"
+                  src="/occ2.jpg"
                   width={200}
                   height={200}
                 />
               <div className="mt-4">
-                <h3 className="text-gray-500 mb-1 ml-12">
-                  CATEGORY
+                <h3 className="text-gray-500 mb-1 ml-16">
+                Wedding
                 </h3>
               </div>
             </div>
             <div className="lg:w-1/6 md:w-1/2 p-2 w-full">
                 <img
-                  alt="ecommerce"
+                  alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="https://i.pinimg.com/736x/6f/38/5b/6f385b6fe30a47c2ad1fd792c42707bd.jpg"
+                  src="/occ3.jpg"
                   width={200}
                   height={200}
                 />
               <div className="mt-4">
-                <h3 className="text-gray-500 mb-1 ml-12">
-                  CATEGORY
+                <h3 className="text-gray-500 mb-1 ml-8">
+                Bachelorette Party
                 </h3>
               </div>
             </div>
             <div className="lg:w-1/6 md:w-1/2 p-2 w-full">
                 <img
-                  alt="ecommerce"
+                  alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="https://rukminim1.flixcart.com/image/850/850/l5bd5zk0/decoration/e/t/i/400-medium-16-latest-dream-party-unicorn-theme-birthday-original-imaggysamc2chzaw.jpeg?q=20"
+                  src="/occ4.jpg"
                   width={200}
                   height={200}
                 />
               <div className="mt-4">
-                <h3 className="text-gray-500 mb-1 ml-12">
-                  CATEGORY
+                <h3 className="text-gray-500 mb-1 ml-8">
+                Retirement Party
                 </h3>
               </div>
             </div>
             <div className="lg:w-1/6 md:w-1/2 p-2 w-full">
                 <img
-                  alt="ecommerce"
+                  alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="https://rukminim1.flixcart.com/image/400/400/kv2pk7k0/birthday-combo/v/p/4/happy-birthday-banner-decoration-kit-34pcs-set-for-boys-husband-original-imag824ps5mkvuhh.jpeg?q=90"
+                  src="/vel.jpg"
                   width={200}
                   height={200}
                 />
               <div className="mt-4">
-                <h3 className="text-gray-500 mb-1 ml-12">
-                  CATEGORY
+                <h3 className="text-gray-500 mb-1 ml-10">
+                Valentine's Day
                 </h3>
               </div>
             </div>
             <div className="lg:w-1/6 md:w-1/2 p-2 w-full">
                 <img
-                  alt="ecommerce"
+                  alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="https://cdn.shopify.com/s/files/1/0266/9497/5657/products/happy-anniversary-decoration-kit-with-golden-foil-balloon-pack-of-84-pcs-330839_533x.jpg?v=1646290662"
+                  src="/chris.jpg"
                   width={200}
                   height={200}
                 />
               <div className="mt-4">
-                <h3 className="text-gray-500 mb-1 ml-12">
-                  CATEGORY
+                <h3 className="text-gray-500 mb-1 ml-6">
+                Christmas & New Year
                 </h3>
               </div>
             </div>
             <div className="lg:w-1/6 md:w-1/2 p-2 w-full">
                 <img
-                  alt="ecommerce"
+                  alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtU3IguXzAKUKLX6cwtye0rtW5hIy7jcPvqLyBdm7n-oxkyR8wCu1V5UDN4Q-hmttj20&usqp=CAU"
+                  src="/baby.jpg"
                   width={200}
                   height={200}
                 />
               <div className="mt-4">
                 <h3 className="text-gray-500 mb-1 ml-12">
-                  CATEGORY
+                Baby Shower
                 </h3>
               </div>
             </div>
             <div className="lg:w-1/6 md:w-1/2 p-2 w-full">
                 <img
-                  alt="ecommerce"
+                  alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="https://www.uniqueballoondecorator.in/media/image/thumb/96795061st_Birthday_Ring_Circle_Decoration-1.jpg"
+                  src="/school.jpg"
                   width={200}
                   height={200}
                 />
               <div className="mt-4">
                 <h3 className="text-gray-500 mb-1 ml-12">
-                  CATEGORY
+                School Function
+                </h3>
+              </div>
+            </div>
+            <div className="lg:w-1/6 md:w-1/2 p-2 w-full">
+                <img
+                  alt="balloondecoration"
+                  className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
+                  src="/adult.jpg"
+                  width={200}
+                  height={200}
+                />
+              <div className="mt-4">
+                <h3 className="text-gray-500 mb-1 ml-12">
+                Adult's Birthday
+                </h3>
+              </div>
+            </div>
+            <div className="lg:w-1/6 md:w-1/2 p-2 w-full">
+                <img
+                  alt="balloondecoration"
+                  className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
+                  src="/babya.jpg"
+                  width={200}
+                  height={200}
+                />
+              <div className="mt-4">
+                <h3 className="text-gray-500 mb-1 ml-14">
+                Baby Arrival
                 </h3>
               </div>
             </div>
