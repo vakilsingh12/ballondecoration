@@ -1,3 +1,7 @@
+// {
+//   "extends": ["next/babel","next/core-web-vitals"]
+// }
+
 {
   "extends": "next",
   "rules": {
@@ -5,4 +9,3 @@
     "@next/next/no-page-custom-font": "off"
   }
 }
-
