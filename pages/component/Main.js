@@ -5,7 +5,7 @@ const Main = () => {
     <div
       id="controls-carousel"
       className="relative md:mx-10 mx-2"
-      data-carousel="slidje"
+      data-carousel="slide"
     >
       <div className="relative  overflow-hidden rounded-lg carusal-data">
         <div
