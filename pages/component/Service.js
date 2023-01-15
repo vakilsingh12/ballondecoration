@@ -13,12 +13,12 @@ const Service = () => {
                 <img
                   alt="ecommerce"
                   className="object-cover object-center w-full h-full block"
-                  src="/bdy.jpg"
+                  src="/Service/birthday.jpg"
                 />
               </a>
               <div className="mt-4">
                 <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                  Happy Birthday
+                   Birthday Decoration
                 </h2>
               </div>
             </div>
@@ -27,12 +27,12 @@ const Service = () => {
                 <img
                   alt="ecommerce"
                   className="object-cover object-center w-full h-full block"
-                  src="/happ.jpg"
+                  src="/Service/wed.jpg"
                 />
               </a>
               <div className="mt-4">
                 <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                  Happy Birthday
+                  Wedding Decoration
                 </h2>
               </div>
             </div>
@@ -41,12 +41,12 @@ const Service = () => {
                 <img
                   alt="ecommerce"
                   className="object-cover object-center w-full h-full block"
-                  src="/bdy.jpg"
+                  src="/Service/office.jpg"
                 />
               </a>
               <div className="mt-4">
                 <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                  Happy Birthday
+                  Office Decoration
                 </h2>
               </div>
             </div>
@@ -55,12 +55,12 @@ const Service = () => {
                 <img
                   alt="ecommerce"
                   className="object-cover object-center w-full h-full block"
-                  src="/happ.jpg"
+                  src="/Service/ret.jpg"
                 />
               </a>
               <div className="mt-4">
                 <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                  Happy Birthday
+                  Retirement Party Decoration
                 </h2>
               </div>
             </div>
@@ -69,12 +69,12 @@ const Service = () => {
                 <img
                   alt="ecommerce"
                   className="object-cover object-center w-full h-full block"
-                  src="/bdy.jpg"
+                  src="/Service/baby.jpg"
                 />
               </a>
               <div className="mt-4">
                 <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                  Happy Birthday
+                  Baby Shower Decoration
                 </h2>
               </div>
             </div>
@@ -83,12 +83,12 @@ const Service = () => {
                 <img
                   alt="ecommerce"
                   className="object-cover object-center w-full h-full block"
-                  src="/happ.jpg"
+                  src="/Service/fest.jpg"
                 />
               </a>
               <div className="mt-4">
                 <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                  Happy Birthday
+                  Festival Devoration
                 </h2>
               </div>
             </div>
@@ -97,12 +97,12 @@ const Service = () => {
                 <img
                   alt="ecommerce"
                   className="object-cover object-center w-full h-full block"
-                  src="/bdy.jpg"
+                  src="/Service/chris.jpg"
                 />
               </a>
               <div className="mt-4">
                 <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                  Happy Birthday
+                Christmas & New Year Decoration
                 </h2>
               </div>
             </div>
@@ -111,12 +111,12 @@ const Service = () => {
                 <img
                   alt="ecommerce"
                   className="object-cover object-center w-full h-full block"
-                  src="/happ.jpg"
+                  src="/Service/ann.jpg"
                 />
               </a>
               <div className="mt-4">
                 <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                  Happy Birthday
+                  Annversary Decoration
                 </h2>
               </div>
             </div>
