@@ -4,7 +4,7 @@ const Main = () => {
   return (
     <div
       id="controls-carousel"
-      className="relative mx-10 "
+      className="relative md:mx-10 mx-2"
       data-carousel="slidje"
     >
       <div className="relative  overflow-hidden rounded-lg carusal-data">
@@ -15,7 +15,7 @@ const Main = () => {
         >
           <img
             src="/main0.jpg"
-            className="absolute block  -translate-x-1/2 -translate-y-1/2  left-1/2 top-1/2 object-cover h-screen w-screen"
+            className="absolute block  -translate-x-1/2 -translate-y-1/2  left-1/2 top-1/2 object-cover h-screen w-screen object-center"
             alt="main"
             width={100}
             height={100}
