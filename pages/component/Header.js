@@ -5,7 +5,7 @@ import { AiOutlineMail } from "react-icons/ai";
 import Link from "next/link";
 const Header = () => {
   return (
-    <div className="container mx-auto sticky top-0 z-10 bg-white">
+    <div className="container mx-auto sticky top-0 z-[100] bg-white">
       <div className="md:ml-auto md:flex md:justify-end  md:px-6 bg-gray-600 shadow-md md:py-4 py-2">
         <div className="flex items-center px-6  text-white">
           Contact Us : <BiMobile />
@@ -18,7 +18,8 @@ const Header = () => {
       <nav className="bg-white border-gray-200 px-2 sm:px-4 py-1 shadow-lg rounded dark:bg-gray-900">
         <div className="container flex flex-wrap items-center md:justify-start justify-between mx-auto md:ml-2">
           <Link href="/" className="flex items-center">
-          <Image src={'/logo.png'} width={70} height={70} alt={"logo"} className="ml-2"/>
+          <Image src={'/logo.png'} width={70} height={70} alt={"logo"} className="rounded-full ml-2"/>
+          <span class="md:hidden self-center text-xl font-semibold whitespace-nowrap dark:text-white">A2Z Balloon decoration</span>
           </Link>
           <button
             data-collapse-toggle="navbar-default"
@@ -50,6 +51,14 @@ const Header = () => {
                   className="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
                 >
                   Home
+                </Link>
+              </li>
+              <li>
+              <Link
+                  href="/#about"
+                  className="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
+                >
+                  About
                 </Link>
               </li>
               <li>

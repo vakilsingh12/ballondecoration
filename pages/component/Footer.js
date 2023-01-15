@@ -6,24 +6,13 @@ const Footer = () => {
   return (
     <footer className="text-gray-600 body-font bg-gray-100" id="contact">
       <div className="container py-12 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
-        <div className="md:w-1/4 flex-shrink-0 md:mx-10  mx-auto text-center md:text-left">
+        <div className="md:w-1/4 flex-shrink-0  md:mx-10  mx-auto  md:text-left">
           <Link
             href={"/"}
-            className="flex title-font font-medium md:items-center justify-center text-gray-900 mb-4 md:mb-0"
+            className="flex title-font font-medium   text-gray-900 mb-4"
           >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              stroke="currentColor"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth="2"
-              className="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full"
-              viewBox="0 0 24 24"
-            >
-              <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
-            </svg>
-            <span className="ml-3 text-xl">A2Z Balloon Decoration</span>
+            <Image src={'/logo.png'} width={70} height={70} alt={"logo"} className="rounded-full ml-2 mr-4"/>
+            <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">A2Z Balloon decoration</span>
           </Link>
           <p className="mt-2 text-sm text-gray-500 px-2">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut debitis
@@ -37,16 +26,16 @@ const Footer = () => {
             </h2>
             <nav className="list-none mb-8">
               <li>
-                <a className="text-gray-600 hover:text-gray-800">About</a>
+                <Link href={'/#about'} className="text-gray-600 hover:text-gray-800">About</Link>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800">Occasions</a>
+                <Link href={'/#occasion'} className="text-gray-600 hover:text-gray-800">Occasions</Link>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800">Service</a>
+                <Link href={'/#services'} className="text-gray-600 hover:text-gray-800">Service</Link>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800">Gallery</a>
+                <Link href={'/#gallery'} className="text-gray-600 hover:text-gray-800">Gallery</Link>
               </li>
             </nav>
           </div>
