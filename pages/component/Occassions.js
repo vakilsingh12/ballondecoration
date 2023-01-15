@@ -17,7 +17,7 @@ const Occassions = () => {
                 <img
                   alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="/kidsbirthday.jpg"
+                  src='/kidsbirthday.jpg'
                   width={200}
                   height={200}
                 />
@@ -45,7 +45,7 @@ const Occassions = () => {
                 <img
                   alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="/occ1.jpg"
+                  src='/occ1.jpg'
                   width={200}
                   height={200}
                 />
@@ -59,7 +59,7 @@ const Occassions = () => {
                 <img
                   alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="/occ2.jpg"
+                  src='/occ2.jpg'
                   width={200}
                   height={200}
                 />
@@ -73,7 +73,7 @@ const Occassions = () => {
                 <img
                   alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="/occ3.jpg"
+                  src='/occ3.jpg'
                   width={200}
                   height={200}
                 />
@@ -87,7 +87,7 @@ const Occassions = () => {
                 <img
                   alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="/occ4.jpg"
+                  src='/occ4.jpg'
                   width={200}
                   height={200}
                 />
@@ -101,7 +101,7 @@ const Occassions = () => {
                 <img
                   alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="/vel.jpg"
+                  src='/vel.jpg'
                   width={200}
                   height={200}
                 />
@@ -115,7 +115,7 @@ const Occassions = () => {
                 <img
                   alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="/chris.jpg"
+                  src='/chris.jpg'
                   width={200}
                   height={200}
                 />
@@ -129,7 +129,7 @@ const Occassions = () => {
                 <img
                   alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="/baby.jpg"
+                  src='/baby.jpg'
                   width={200}
                   height={200}
                 />
@@ -143,7 +143,7 @@ const Occassions = () => {
                 <img
                   alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="/school.jpg"
+                  src='/school.jpg'
                   width={200}
                   height={200}
                 />
@@ -157,7 +157,7 @@ const Occassions = () => {
                 <img
                   alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="/adult.jpg"
+                  src='/adult.jpg'
                   width={200}
                   height={200}
                 />
@@ -171,7 +171,7 @@ const Occassions = () => {
                 <img
                   alt="balloondecoration"
                   className="shadow-lg shadow-pink-400 rounded-full transition duration-500 ease hover:-translate-y-3 hover:cursor-pointer"
-                  src="/babya.jpg"
+                  src='/babya.jpg'
                   width={200}
                   height={200}
                 />
