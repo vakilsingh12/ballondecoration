@@ -2,14 +2,15 @@ import React from "react";
 import Image from "next/image";
 import { BiMobile } from "react-icons/bi";
 import { AiOutlineMail } from "react-icons/ai";
+import {BsWhatsapp} from "react-icons/bs"
 import Link from "next/link";
 const Header = () => {
   return (
     <div className="container mx-auto sticky top-0 z-[100] bg-white">
       <div className="md:ml-auto md:flex md:justify-end  md:px-6 bg-gray-600 shadow-md md:py-4 py-2">
         <div className="flex items-center px-6  text-white">
-          Contact Us : <BiMobile />
-          +91:9501586704
+          Contact Us : <BiMobile /> & <BsWhatsapp/>
+          +91:9910112161
         </div>
         <div className="flex items-center px-6 text-white">
           Email : <AiOutlineMail /> a2zballoondecoraton@gmail.com
