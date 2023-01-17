@@ -8,13 +8,15 @@ const Header = () => {
   return (
     <div className="container mx-auto sticky top-0 z-[100] bg-white">
       <div className="md:ml-auto md:flex md:justify-end  md:px-6 bg-gray-600 shadow-md md:py-4 py-2">
+        <div className="md:block flex">
         <div className="flex items-center px-6  text-white">
           <BiMobile />  
           +91:9910112161
         </div>
         <div className="flex items-center px-6  text-white">
             <BsWhatsapp/> &nbsp;
-            <Link target='_blank' rel="noreferrer" href="https://wa.me/9910112161"> Send Message </Link>
+            <Link target='_blank' className="" rel="noreferrer" href="https://wa.me/9910112161"> Send Message </Link>
+        </div>
         </div>
         <div className="flex items-center px-6 text-white">
           Email : <AiOutlineMail /> a2zballoondecoraton@gmail.com
