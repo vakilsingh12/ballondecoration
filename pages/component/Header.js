@@ -14,7 +14,7 @@ const Header = () => {
         </div>
         <div className="flex items-center px-6  text-white">
             <BsWhatsapp/> &nbsp;
-            <a target='_blank' href="https://wa.me/9910112161"> Send Message </a>
+            <Link target='_blank' rel="noreferrer" href="https://wa.me/9910112161"> Send Message </Link>
         </div>
         <div className="flex items-center px-6 text-white">
           Email : <AiOutlineMail /> a2zballoondecoraton@gmail.com
