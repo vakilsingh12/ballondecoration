@@ -44,9 +44,9 @@ const Footer = () => {
               React Us
             </h2>
             <p className="mt-2 text-sm text-gray-500">
-              1013-Ground Floor,
-              <br /> Housing Board Mayfield Garden,
-              <br /> Sector-51 Gurugram
+              # H-303, block-H, Suncity Avenue-102,
+              <br />  Sector -102, Gurgaon,
+              <br /> Haryana-(122001)
             </p>
           </div>
           <div className="lg:w-1/2 md:w-1/2 w-full px-4 h-full">
