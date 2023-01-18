@@ -14,7 +14,7 @@ const Main = () => {
           data-carousel-item="active"
         >
           <img
-            src="/main0.jpg"
+            src="/Service/birthday.jpg"
             className="absolute block  -translate-x-1/2 -translate-y-1/2  left-1/2 top-1/2 object-cover h-screen w-screen object-center"
             alt="main"
             width={100}
@@ -50,7 +50,7 @@ const Main = () => {
           data-carousel-item
         >
           <img
-            src="/main4.jpg"
+            src="/Service/wed.jpg"
             className="absolute block object-cover h-screen w-screen -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="main4"
           />
