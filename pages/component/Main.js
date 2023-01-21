@@ -109,7 +109,7 @@ const Main = () => {
           .carusal-data {
             height: 600px;
           }
-          @media screen and (max-width: 995px), screen and (max-height: 700px) {
+          @media screen and (max-width: 995px), screen and (max-height: 500px) {
             .carusal-data {
             height: 300px;
           }
