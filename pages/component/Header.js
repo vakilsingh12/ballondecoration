@@ -11,7 +11,7 @@ const Header = () => {
         <div className="flex">
         <div className="flex items-center px-6  text-white">
           <BiMobile />  
-          +91:9910112161
+          <Link href={'tel:9910112161'}>+91:9910112161</Link>
         </div>
         <div className="flex items-center px-6  text-white">
             <BsWhatsapp/> &nbsp;
