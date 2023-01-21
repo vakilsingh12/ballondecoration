@@ -22,7 +22,7 @@ const Header = () => {
            <AiOutlineMail/> : a2zballoondecoraton@gmail.com
         </div>
       </div>
-      <nav className="bg-white border-gray-200 px-2 sm:px-4 py-1 shadow-lg rounded dark:bg-gray-900">
+      <nav className="bg-white border-gray-200 px-2 sm:px-4 py-1 md:shadow-lg shadow-sm rounded dark:bg-gray-900">
         <div className="container flex flex-wrap items-center md:justify-start justify-between mx-auto md:ml-2">
           <Link href="/" className="flex items-center">
           <Image src={'/logo.png'} width={70} height={70} alt={"logo"} className="rounded-full ml-2"/>
