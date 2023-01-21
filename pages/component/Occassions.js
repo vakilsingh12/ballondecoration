@@ -151,7 +151,7 @@ const Occassions = () => {
                 height={200}
               />
               <div className="mt-4">
-                <h3 className="text-gray-500 mb-1 ml-12">School Function</h3>
+                <h3 className="text-gray-500 mb-1 md:ml-12 ml-10">Theme party</h3>
               </div>
             </div>
             <div className="lg:w-1/6 md:w-1/2 p-2 w-full">

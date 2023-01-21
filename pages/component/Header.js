@@ -15,7 +15,7 @@ const Header = () => {
         </div>
         <div className="flex items-center px-6  text-white">
             <BsWhatsapp/> &nbsp;
-            <Link target='_blank' className="" rel="noreferrer" href="https://wa.me/9910112161"> Send Message </Link>
+            <Link target='_blank' className="" rel="noreferrer" href="https://wa.me/+919910112161"> Send Message </Link>
         </div>
         </div>
         <div className="flex items-center px-6 text-white">
