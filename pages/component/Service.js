@@ -13,12 +13,12 @@ const Service = () => {
                 <img
                   alt="ecommerce"
                   className="object-cover object-center w-full h-full block"
-                  src="/Service/birthday.jpg"
+                  src="/Service/s1.jpg"
                 />
               </a>
               <div className="mt-4">
                 <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                   Birthday Decoration
+                   Birthday Paper banner
                 </h2>
               </div>
             </div>
@@ -27,12 +27,12 @@ const Service = () => {
                 <img
                   alt="ecommerce"
                   className="object-cover object-center w-full h-full block"
-                  src="/Service/wed.jpg"
+                  src="/Service/s2.jpg"
                 />
               </a>
               <div className="mt-4">
                 <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                  Wedding Decoration
+                  Birthday Banner Foil
                 </h2>
               </div>
             </div>
@@ -41,12 +41,26 @@ const Service = () => {
                 <img
                   alt="ecommerce"
                   className="object-cover object-center w-full h-full block"
-                  src="/Service/office.jpg"
+                  src="/Service/s3.jpg"
                 />
               </a>
               <div className="mt-4">
                 <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                  Office Decoration
+                  Foils Curtains
+                </h2>
+              </div>
+            </div>
+            <div className="lg:w-1/4 md:w-1/2 p-4 w-full shadow-lg shadow-pink-400 rounded-sm">
+              <a className="block relative h-52 rounded overflow-hidden">
+                <img
+                  alt="ecommerce"
+                  className="object-fill  w-full h-full block"
+                  src="/Service/s4.jpg"
+                />
+              </a>
+              <div className="mt-4">
+                <h2 className="text-gray-900 title-font text-lg font-medium text-center">
+                  Foils Alphabets
                 </h2>
               </div>
             </div>
@@ -55,12 +69,12 @@ const Service = () => {
                 <img
                   alt="ecommerce"
                   className="object-cover object-center w-full h-full block"
-                  src="/Service/ret.jpg"
+                  src="/Service/s5.jpg"
                 />
               </a>
               <div className="mt-4">
                 <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                  Retirement Party Decoration
+                  Adult Birthday Props
                 </h2>
               </div>
             </div>
@@ -69,12 +83,12 @@ const Service = () => {
                 <img
                   alt="ecommerce"
                   className="object-cover object-center w-full h-full block"
-                  src="/Service/baby.jpg"
+                  src="/Service/s6.jpg"
                 />
               </a>
               <div className="mt-4">
                 <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                  Baby Shower Decoration
+                  Fairy Light
                 </h2>
               </div>
             </div>
@@ -83,12 +97,12 @@ const Service = () => {
                 <img
                   alt="ecommerce"
                   className="object-cover object-center w-full h-full block"
-                  src="/Service/fest.jpg"
+                  src="/Service/s7.jpg"
                 />
               </a>
               <div className="mt-4">
                 <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                  Festival Devoration
+                Rose Petals
                 </h2>
               </div>
             </div>
@@ -97,26 +111,12 @@ const Service = () => {
                 <img
                   alt="ecommerce"
                   className="object-cover object-center w-full h-full block"
-                  src="/Service/chris.jpg"
+                  src="/Service/s8.jpg"
                 />
               </a>
               <div className="mt-4">
                 <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                Christmas & New Year Decoration
-                </h2>
-              </div>
-            </div>
-            <div className="lg:w-1/4 md:w-1/2 p-4 w-full shadow-lg shadow-pink-400 rounded-sm">
-              <a className="block relative h-52 rounded overflow-hidden">
-                <img
-                  alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="/Service/ann.jpg"
-                />
-              </a>
-              <div className="mt-4">
-                <h2 className="text-gray-900 title-font text-lg font-medium text-center">
-                  Annversary Decoration
+                  Star & Hearts Foil
                 </h2>
               </div>
             </div>

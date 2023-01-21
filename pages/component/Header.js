@@ -26,7 +26,7 @@ const Header = () => {
         <div className="container flex flex-wrap items-center md:justify-start justify-between mx-auto md:ml-2">
           <Link href="/" className="flex items-center">
           <Image src={'/logo.png'} width={70} height={70} alt={"logo"} className="rounded-full ml-2"/>
-          <span class="md:hidden self-center text-xl font-semibold whitespace-nowrap dark:text-white">A2Z Balloon decoration</span>
+          <span className="md:hidden self-center text-xl font-semibold whitespace-nowrap dark:text-white">A2Z Balloon decoration</span>
           </Link>
           <button
             data-collapse-toggle="navbar-default"

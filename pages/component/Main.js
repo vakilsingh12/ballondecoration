@@ -14,8 +14,8 @@ const Main = () => {
           data-carousel-item="active"
         >
           <img
-            src="/Service/birthday.jpg"
-            className="absolute block  -translate-x-1/2 -translate-y-1/2  left-1/2 top-1/2 object-cover h-screen w-screen object-center"
+            src="https://5.imimg.com/data5/DE/JN/QE/SELLER-8900435/birthday-balloon-decoration-in-lucknow-1000x1000.jpg"
+            className="block object-cover object-center w-full h-full rounded-lg"
             alt="main"
             width={100}
             height={100}
@@ -28,8 +28,8 @@ const Main = () => {
           data-carousel-item
         >
           <img
-            src="/main5.jpg"
-            className="absolute block -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 object-cover h-screen w-screen"
+            src="https://birthdaypartyplanner.in/images/t/homebd/Balloon-Decoration%20(13).JPG"
+            className="block object-cover object-center w-full h-full rounded-lg"
             alt="main5"
           />
         </div>
@@ -40,7 +40,7 @@ const Main = () => {
         >
           <img
             src="/main3.jpg"
-            className="absolute block object-cover h-screen w-screen -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+            className="block object-cover object-center w-full h-full rounded-lg"
             alt="main3"
           />
         </div>
@@ -50,8 +50,8 @@ const Main = () => {
           data-carousel-item
         >
           <img
-            src="/Service/wed.jpg"
-            className="absolute block object-cover h-screen w-screen -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+            src="https://img1.exportersindia.com/product_images/bc-full/2021/5/8846273/anniversary-party-themes-1621382191-5826943.jpg"
+            className="block object-cover object-center w-full h-full rounded-lg"
             alt="main4"
           />
         </div>

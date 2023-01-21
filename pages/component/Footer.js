@@ -12,11 +12,10 @@ const Footer = () => {
             className="flex title-font font-medium   text-gray-900 mb-4"
           >
             <Image src={'/logo.png'} width={70} height={70} alt={"logo"} className="rounded-full ml-2 mr-4"/>
-            <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">A2Z Balloon decoration</span>
+            <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">A2Z Balloon decoration</span>
           </Link>
           <p className="mt-2 text-sm text-gray-500 px-2">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut debitis
-            quos esse odit delectus vero quidem id repellendus totam quibusdam
+          We provide a wide range of decoration services to make any event full of joy, happiness and memorable.
           </p>
         </div>
         <div className="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left text-center md:mx-10">
