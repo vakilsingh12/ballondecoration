@@ -19,7 +19,7 @@ const Header = () => {
         </div>
         </div>
         <div className="flex items-center px-6 text-white">
-           <AiOutlineMail/> : a2zballoondecoration@gmail.com
+           <AiOutlineMail/> : a2zballoondecor@gmail.com
         </div>
       </div>
       <nav className="bg-white border-gray-200 px-2 sm:px-4 py-1 md:shadow-lg shadow-sm rounded dark:bg-gray-900">
