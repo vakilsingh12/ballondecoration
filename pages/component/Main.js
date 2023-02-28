@@ -28,9 +28,9 @@ const Main = () => {
           data-carousel-item
         >
           <img
-            src="https://birthdaypartyplanner.in/images/t/homebd/Balloon-Decoration%20(13).JPG"
+            src="https://loviesta.com/wp-content/uploads/2021/03/Rooftop-Decoration-At-Home-002.jpg"
             className="block object-cover object-center w-full h-full rounded-lg"
-            alt="main5"
+            alt="a2zballondecoration"
           />
         </div>
         <div
@@ -71,9 +71,9 @@ const Main = () => {
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="2"
               d="M15 19l-7-7 7-7"
             ></path>
           </svg>
@@ -95,9 +95,9 @@ const Main = () => {
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="2"
               d="M9 5l7 7-7 7"
             ></path>
           </svg>
