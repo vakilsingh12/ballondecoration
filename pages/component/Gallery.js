@@ -1,5 +1,4 @@
 import React from "react";
-
 const Gallery = () => {
   return (
     <div id="gallery">
@@ -11,7 +10,30 @@ const Gallery = () => {
       <section className="overflow-hidden text-gray-700 ">
         <div className="container px-5 py-4 mx-auto lg:pt-12 lg:px-12">
           <div className="flex flex-wrap -m-1 md:-m-2">
-          
+          <div className="flex flex-wrap w-96">
+              <div className="w-full p-1 md:p-2">
+              <video className="w-full border object-cover object-center border-gray-200 rounded-lg dark:border-gray-700 h-96" controls>
+              <source src="/Video/v1.mp4" type="video/mp4"/>
+              Your browser does not support the video tag.
+            </video>
+              </div>
+              </div>
+              <div className="flex flex-wrap w-96">
+              <div className="w-full p-1 md:p-2">
+              <video className="w-full border object-cover object-center border-gray-200 rounded-lg dark:border-gray-700 h-96" controls>
+              <source src="/Video/v2.mp4" type="video/mp4"/>
+              Your browser does not support the video tag.
+            </video>
+              </div>
+              </div>
+              <div className="flex flex-wrap w-96">
+              <div className="w-full p-1 md:p-2">
+              <video className="w-full border object-cover object-center border-gray-200 rounded-lg dark:border-gray-700 h-96" controls>
+              <source src="/Video/v3.mp4" type="video/mp4"/>
+              Your browser does not support the video tag.
+            </video>
+              </div>
+              </div>
             <div className="flex flex-wrap w-96">
               <div className="w-full p-1 md:p-2">
                 <img
@@ -89,7 +111,7 @@ const Gallery = () => {
                 <img
                   alt="gallery"
                   src="https://deowgxgt4vwfe.cloudfront.net/uploads/1646830152_original.jpg"
-                  className="block object-cover object-center w-full md:h-full h-44 rounded-lg" 
+                  className="block object-cover object-center w-full md:h-full h-44 rounded-lg"
                 />
               </div>
             </div>
