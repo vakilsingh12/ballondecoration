@@ -12,7 +12,7 @@ const Gallery = () => {
           <div className="flex flex-wrap -m-1 md:-m-2 justify-between">
           <div className="flex flex-wrap w-1/2">
               <div className="w-full p-1 md:p-2">
-              <video className="w-full border object-cover object-center border-gray-200 rounded-lg dark:border-gray-700 h-96" controls>
+              <video className="w-full border object-cover object-center border-gray-200 rounded-lg dark:border-gray-700 md:h-96 h-44" controls>
               <source src="/Video/v1.mp4" type="video/mp4"/>
               Your browser does not support the video tag.
             </video>
@@ -20,7 +20,7 @@ const Gallery = () => {
               </div>
               <div className="flex flex-wrap w-1/2">
               <div className="w-full p-1 md:p-2">
-              <video className="w-full border object-cover object-center border-gray-200 rounded-lg dark:border-gray-700 h-96" controls>
+              <video className="w-full border object-cover object-center border-gray-200 rounded-lg dark:border-gray-700 md:h-96 h-44" controls>
               <source src="/Video/v2.mp4" type="video/mp4"/>
               Your browser does not support the video tag.
             </video>
@@ -28,7 +28,7 @@ const Gallery = () => {
               </div>
               <div className="flex flex-wrap w-1/2">
               <div className="w-full p-1 md:p-2">
-              <video className="w-full border object-cover object-center border-gray-200 rounded-lg dark:border-gray-700 h-96" controls>
+              <video className="w-full border object-cover object-center border-gray-200 rounded-lg dark:border-gray-700 md:h-96 h-44" controls>
               <source src="/Video/v3.mp4" type="video/mp4"/>
               Your browser does not support the video tag.
             </video>
