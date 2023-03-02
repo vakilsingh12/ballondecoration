@@ -9,8 +9,8 @@ const Gallery = () => {
       </h1>
       <section className="overflow-hidden text-gray-700 ">
         <div className="container px-5 py-4 mx-auto lg:pt-12 lg:px-12">
-          <div className="flex flex-wrap -m-1 md:-m-2">
-          <div className="flex flex-wrap w-96">
+          <div className="flex flex-wrap -m-1 md:-m-2 justify-between">
+          <div className="flex flex-wrap w-1/2">
               <div className="w-full p-1 md:p-2">
               <video className="w-full border object-cover object-center border-gray-200 rounded-lg dark:border-gray-700 h-96" controls>
               <source src="/Video/v1.mp4" type="video/mp4"/>
@@ -18,7 +18,7 @@ const Gallery = () => {
             </video>
               </div>
               </div>
-              <div className="flex flex-wrap w-96">
+              <div className="flex flex-wrap w-1/2">
               <div className="w-full p-1 md:p-2">
               <video className="w-full border object-cover object-center border-gray-200 rounded-lg dark:border-gray-700 h-96" controls>
               <source src="/Video/v2.mp4" type="video/mp4"/>
@@ -26,7 +26,7 @@ const Gallery = () => {
             </video>
               </div>
               </div>
-              <div className="flex flex-wrap w-96">
+              <div className="flex flex-wrap w-1/2">
               <div className="w-full p-1 md:p-2">
               <video className="w-full border object-cover object-center border-gray-200 rounded-lg dark:border-gray-700 h-96" controls>
               <source src="/Video/v3.mp4" type="video/mp4"/>
@@ -34,7 +34,7 @@ const Gallery = () => {
             </video>
               </div>
               </div>
-            <div className="flex flex-wrap w-96">
+            <div className="flex flex-wrap w-1/2">
               <div className="w-full p-1 md:p-2">
                 <img
                   alt="gallery"
@@ -43,7 +43,7 @@ const Gallery = () => {
                 />
               </div>
             </div>
-            <div className="flex flex-wrap w-96">
+            <div className="flex flex-wrap w-1/2">
               <div className="w-full p-1 md:p-2">
                 <img
                   alt="gallery"
@@ -52,7 +52,7 @@ const Gallery = () => {
                 />
               </div>
             </div>
-            <div className="flex flex-wrap w-96">
+            <div className="flex flex-wrap w-1/2">
               <div className="w-full p-1 md:p-2">
                 <img
                   alt="gallery"
@@ -61,57 +61,57 @@ const Gallery = () => {
                 />
               </div>
             </div>
-            <div className="flex flex-wrap w-96 ">
+            <div className="flex flex-wrap w-1/2 ">
               <div className="w-full p-1 md:p-2">
                 <img
                   alt="gallery"
                   className="block object-cover object-center w-full md:h-96 h-44 rounded-lg  "
-                  src="/car.jpg"
+                  src="/car11.jpg"
                 />
               </div>
             </div>
-            <div className="flex flex-wrap w-96">
+            <div className="flex flex-wrap w-1/2">
               <div className="w-full p-1 md:p-2">
                 <img
                   alt="gallery"
-                  className="block object-cover object-center w-full md:h-full h-44 rounded-lg"
+                  className="block object-cover object-center w-full md:h-96 h-44 rounded-lg"
                   src="/gal5.jpg"
                 />
               </div>
             </div>
-            <div className="flex flex-wrap w-96">
+            <div className="flex flex-wrap w-1/2">
               <div className="w-full p-1 md:p-2">
                 <img
                   alt="gallery"
-                  className="block object-cover object-center w-full md:h-full h-44 rounded-lg"
+                  className="block object-cover object-center w-full md:h-96 h-44 rounded-lg"
                   src="/gal6.jpg"
                 />
               </div>
             </div>
-            <div className="flex flex-wrap w-96">
+            <div className="flex flex-wrap w-1/2">
               <div className="w-full p-1 md:p-2">
                 <img
                   alt="gallery"
-                  className="block object-cover object-center w-full md:h-full h-44 rounded-lg"
+                  className="block object-cover object-center w-full md:h-96 h-44 rounded-lg"
                   src="/main1.jpg"
                 />
               </div>
             </div>
-            <div className="flex flex-wrap w-96">
+            <div className="flex flex-wrap w-1/2">
               <div className="w-full p-1 md:p-2">
                 <img
                   alt="gallery"
-                  className="block object-cover object-center w-full md:h-full h-44 rounded-lg"
+                  className="block object-cover object-center w-full md:h-96 h-44 rounded-lg"
                   src="/gal1.jpg"
                 />
               </div>
             </div>
-            <div className="flex flex-wrap w-96">
+            <div className="flex flex-wrap w-1/2">
               <div className="w-full p-1 md:p-2">
                 <img
                   alt="gallery"
                   src="https://deowgxgt4vwfe.cloudfront.net/uploads/1646830152_original.jpg"
-                  className="block object-cover object-center w-full md:h-full h-44 rounded-lg"
+                  className="block object-cover object-center w-full md:h-96 h-44 rounded-lg"
                 />
               </div>
             </div>
