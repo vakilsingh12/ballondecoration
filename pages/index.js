@@ -23,10 +23,6 @@ export default function Home() {
           content="Our luxury balloon decoration services cover all types of events and needs of clients such as baby showers, welcome baby decoration, corporate event decoration, party decoration, wedding decoration, birthday decoration, bachelorette party decoration, anniversary decoration."
         />
         <meta name="keywords" content="Balloon, Party, E-commerce" />
-        <meta
-          name="google-site-verification"
-          content="ZRlr5BDsmx55krhaL5ophvQtuYL1mIi1n7OjQidomdM"
-        />
         <meta name="robots" content="index, follow"></meta>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
